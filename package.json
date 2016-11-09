@@ -1,12 +1,17 @@
 {
   "name": "tsel-support",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "description": "Programmatic way to automate Dashboard login for Auth",
+  "main": "login.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tawawa/auth0-dashboard-login.git"
+  },
   "scripts": {
+    "login": "node login.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "arcseldon",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^2.0.0",
