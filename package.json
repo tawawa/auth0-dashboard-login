@@ -1,5 +1,5 @@
 {
-  "name": "tsel-support",
+  "name": "auth0-dashboard-login",
   "version": "1.0.0",
   "description": "Programmatic way to automate Dashboard login for Auth",
   "main": "login.js",
